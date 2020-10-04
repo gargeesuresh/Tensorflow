@@ -2,8 +2,8 @@
 > This Repository will hold my takeaways as I continue to learn about tensorflow from various sources. Currently I am doing a course on tensorflow,the one offered by DeepLearning.ai under the tensorflow professional certification in Coursera. 
 
 <p align="center">
-  <img src="./img/keras.png" width="500" height="155">
-  <img src="./img/Deeplearning.jpeg" width="500" height="155">
+  <img src="./img/keras.png" width="500" height="355">
+  <img src="./img/Deeplearning.jpeg" width="500" height="355">
 </p>
 
 
